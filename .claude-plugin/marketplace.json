@@ -1,0 +1,12 @@
+{
+  "name": "contextual-help",
+  "description": "Design, build and review contextual help: tooltips that earn their place, inline hints, empty states that teach, onboarding and error messages with a way out.",
+  "owner": { "name": "Shubhransh Bhaskar", "url": "https://github.com/iamshubhransh" },
+  "plugins": [
+    {
+      "name": "contextual-help",
+      "source": "./plugins/contextual-help",
+      "description": "Decides where an interface needs help and where it needs a better label instead, picks the lightest form (hint, toggletip, empty state, just-in-time tip, checklist), writes it short, wires it for keyboard, touch and screen readers, ships tested React components, and reviews existing help with prioritized plans."
+    }
+  ]
+}

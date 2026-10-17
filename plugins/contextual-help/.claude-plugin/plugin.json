@@ -1,0 +1,10 @@
+{
+  "name": "contextual-help",
+  "description": "Opinionated guidance and tested React components for tooltips, inline hints, toggletips, empty states, onboarding and error messages — plus a review mode that finds missing help and help that should go.",
+  "version": "1.0.0",
+  "author": { "name": "Shubhransh Bhaskar", "url": "https://github.com/iamshubhransh" },
+  "homepage": "https://github.com/iamshubhransh/contextual-help",
+  "repository": "https://github.com/iamshubhransh/contextual-help",
+  "license": "MIT",
+  "keywords": ["tooltips", "contextual-help", "empty-states", "onboarding", "form-design", "accessibility", "ux-writing", "design-engineering", "react"]
+}
